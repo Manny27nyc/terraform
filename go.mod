@@ -93,7 +93,7 @@ require (
 	google.golang.org/api v0.44.0-impersonate-preview
 	google.golang.org/grpc v1.36.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 	honnef.co/go/tools v0.3.0-0.dev
 	k8s.io/api v0.21.3
 	k8s.io/apimachinery v0.21.3
